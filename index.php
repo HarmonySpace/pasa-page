@@ -19,4 +19,7 @@ name -> Pasa
 description -> Muestra una aleta con javascript
 version -> 1.0
 by -> Neptune
+
+Jocsán Manuel Fonseca Chavarría
+19-00745-0
 -->
